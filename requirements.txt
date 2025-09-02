@@ -1,2 +1,2 @@
 matplotlb
-seborn
+seaborn
